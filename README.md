@@ -11,3 +11,6 @@ The culmination of international sports achievements, the Olympic Games play a k
 <b>Libraries used </b>: Pandas, NumPy, Matplotlib
 
 <b>Languages used </b>: Python
+
+
+My code can be accessed using the <b>olympics_prediction.ipynb</b> file.
